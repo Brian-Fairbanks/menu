@@ -1,0 +1,42 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Distribution / Packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs
+*.log
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Test coverage
+htmlcov/
+.tox/
+.cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# Config files for specific environments (e.g., Docker, etc.)
+*.env
